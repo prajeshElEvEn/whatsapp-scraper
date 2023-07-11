@@ -1,8 +1,8 @@
 const express = require('express');
-const dotenv = require('dotenv').config();
+const dotenv = require('dotenv');
 const logger = require('node-color-log');
-const { info } = logger
-// const { info, warn } = require('./utils/Logger.js');
+
+dotenv.config()
 const app = express();
 const port = process.env.PORT || 3000;
 
