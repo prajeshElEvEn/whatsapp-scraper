@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^7.3.2"
+    "mongoose": "^7.3.2",
+    "whatsapp-web.js": "^1.21.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1",
