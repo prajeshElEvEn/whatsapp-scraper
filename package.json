@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes whatsapp info and uploads it to a database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
