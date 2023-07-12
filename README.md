@@ -45,7 +45,7 @@ MONGO_URI=<your-mongodb-uri>
 - Run the application
 
 ```bash
-npm start
+npm run dev
 ```
 
 ## Usage
