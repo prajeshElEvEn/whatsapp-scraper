@@ -51,7 +51,7 @@ npm run dev
 ## Usage
 
 - Use whatsapp app on your mobile phone to scan the QR code that will be displayed on the terminal
-- The application will start scraping the data from the whatsapp group and save it to the database
+- The application will start scraping the data from whatsapp groups and save it to the database
 
 ## Contributing
 
